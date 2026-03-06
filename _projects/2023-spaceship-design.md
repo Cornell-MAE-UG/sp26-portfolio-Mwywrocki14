@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 3240 HW5 Q3
-description: Description of most valuable MAE 3240 HW assingment
+description: Description of most valuable MAE 3240 HW
 technologies: [NA]
 image: /assets/images/heatphoto.pdf
 ---
