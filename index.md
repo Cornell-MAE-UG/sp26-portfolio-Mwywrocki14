@@ -6,7 +6,7 @@ title: Michael Wywrocki
 ## About Me
 
 
-![Profile Picture]({{ "MichaelPhoto.pdf" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "ProfilePic.pdf" | relative_url }}){: class="profile-image"}
 
  My name is Michael Wywrocki, and I am a junior at Cornell University studying Mechanical Engineering. 
 
