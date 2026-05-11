@@ -1,0 +1,14 @@
+---
+layout: "MAE 3780"
+title: "Robot Competition Project"
+description: MAE 3780 Robot Competiton Project
+technologies: [Arduino, TinkerCAD, QTI, Light Sensor, Servo Motor, Position Servo]
+image: /assets/images/heatphoto.pdf
+permalink: /projects/mae-3780-robot/
+author_profile: true
+---
+
+
+[Click here for my final report]({{ "/assets/3240 HW 2.pdf" | relative_url }})!
+
+Click the link above to see our final report for our MAE 3780 Robot Competition Project!
