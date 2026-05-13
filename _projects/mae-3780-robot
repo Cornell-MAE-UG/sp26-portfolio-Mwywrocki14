@@ -9,6 +9,6 @@ author_profile: true
 ---
 
 
-[Click here for my final report]({{ "" | relative_url }})!
+[Click here for my final report]({{ "/assets/3780 Final Report-2.pdf" | relative_url }})!
 
 Click the link above to see our final report for our MAE 3780 Robot Competition Project!
